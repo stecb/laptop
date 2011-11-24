@@ -8,5 +8,8 @@ echo "Installing Rails ..."
 echo "Installing the Heroku gem ..."
   gem install heroku --no-rdoc --no-ri
 
+echo "Installing the Taps gem ..."
+  gem install taps --no-rdoc --no-ri
+
 echo "Installing Postgres gem ..."
   gem install pg --no-rdoc --no-ri
